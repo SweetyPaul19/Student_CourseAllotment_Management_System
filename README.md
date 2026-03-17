@@ -41,14 +41,43 @@ It helps manage student registrations and efficiently assign courses while maint
 StudentCourseSystem/
 │
 ├── src/
-│   ├── model/          # Student & Course classes
-│   ├── service/        # Business logic
-│   ├── controller/     # Application flow
-│   ├── utils/          # Helper utilities
-│   └── Main.java       # Entry point
+│   └── com/
+│       └── coursesystem/
+│           │
+│           ├── Main.java                  # Entry point
+│           │
+│           ├── dao/                      # Data Access Layer
+│           │   ├── CourseDAO.java
+│           │   └── StudentDAO.java
+│           │
+│           ├── db/                       # Database Connection
+│           │   └── DBConnection.java
+│           │
+│           ├── models/                   # Data Models
+│           │   ├── Course.java
+│           │   └── Student.java
+│           │
+│           └── ui/                       # GUI (Java Swing)
+│               ├── AdminDashboard.java
+│               ├── AdminLoginFrame.java
+│               ├── MainFrame.java
+│               ├── StudentDashboard.java
+│               ├── StudentLoginFrame.java
+│               └── StudentRegistrationFrame.java
 │
-├── data/               # Stored data (if applicable)
+├── bin/                                 # Compiled .class files
+│
+├── database/
+│   └── schema.sql                       # Database schema
+│
+├── lib/
+│   └── mysql-connector-j-9.6.0/         # MySQL JDBC Driver
+│       └── mysql-connector-j-9.6.0.jar
+│
+├── .classpath                          # Eclipse config
+├── .project                            # Eclipse config
 └── README.md
+```
 ```
 
 ---
