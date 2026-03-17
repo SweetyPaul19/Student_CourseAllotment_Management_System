@@ -38,6 +38,7 @@ It helps manage student registrations and efficiently assign courses while maint
 ## 📂 Project Structure
 
 ```bash
+
 StudentCourseSystem/
 │
 ├── src/
@@ -77,7 +78,6 @@ StudentCourseSystem/
 ├── .classpath                          # Eclipse config
 ├── .project                            # Eclipse config
 └── README.md
-```
 ```
 
 ---
