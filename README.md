@@ -112,9 +112,13 @@ git clone https://github.com/your-username/student-course-system.git
 
 ## 📸 Screenshots
 
+**Home page**
 > <img width="1105" height="675" alt="image" src="https://github.com/user-attachments/assets/eff5926e-dfb4-4f80-99e8-c9856825b511" />
+**Registration Form**
 > <img width="626" height="698" alt="image" src="https://github.com/user-attachments/assets/34cd90b3-91b9-41ba-9d48-88f487fc3554" />
+**Student Login page**
 > <img width="548" height="518" alt="image" src="https://github.com/user-attachments/assets/64a90ec4-338e-4a0a-b066-5ece1479d545" />
+**Admin Panel**
 > <img width="1916" height="979" alt="image" src="https://github.com/user-attachments/assets/6dde211c-8b16-4b56-bff6-da39c6d5f763" />
 > <img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/4c74f918-48ba-4460-bb1a-4ae62e4e8b8e" />
 
