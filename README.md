@@ -133,15 +133,6 @@ git clone https://github.com/your-username/student-course-system.git
 
 ---
 
-## 🔮 Future Improvements
-
-- 🌐 Web-based version (React + Node.js)  
-- 🗄️ Database integration (MySQL / MongoDB)  
-- 🔐 Login & Authentication system  
-- 📊 Admin dashboard  
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
