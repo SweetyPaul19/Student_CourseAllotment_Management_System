@@ -142,7 +142,7 @@ Feel free to fork this repository and submit a pull request.
 
 ## 👨‍💻 Author
 
-**Made with love by Sweety**
+**Made with love❤️ by Sweety**
 
 ---
 
